@@ -1,10 +1,10 @@
-// Define Weak Self
+// Define Strong Self
 // 
 //
-// IDECodeSnippetCompletionPrefix: vokWeakSelf
+// IDECodeSnippetCompletionPrefix: vokStrongSelf
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 83F921BC-126F-4751-9E91-40C5E3F631E6
+// IDECodeSnippetIdentifier: 1A45777F-3BA7-409C-BFA2-7B8FBCF20C58
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-typeof(self) __weak weakSelf = self;
+__typeof__(self) strongSelf = weakSelf;
