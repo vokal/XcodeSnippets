@@ -1,5 +1,5 @@
 // Header Struct Types
-// This will create the struct for the InterfaceFile
+// This will create the struct for the Interface File
 //
 // IDECodeSnippetCompletionPrefix: vokStructHeader
 // IDECodeSnippetCompletionScopes: [TopLevel]
