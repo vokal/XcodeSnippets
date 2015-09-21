@@ -1,4 +1,4 @@
-// Header Static Object Creation
+// Global Variable Header
 // 
 //
 // IDECodeSnippetCompletionPrefix: vokStaticObjectHeader
