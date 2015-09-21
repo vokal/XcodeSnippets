@@ -1,4 +1,4 @@
-// Private Static Object Creation
+// Static Object Creation
 // 
 //
 // IDECodeSnippetCompletionPrefix: eckStaticObjectCreation
