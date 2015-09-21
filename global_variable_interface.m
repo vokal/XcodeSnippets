@@ -1,4 +1,4 @@
-// Global Variable Interface
+// Global Variable Implementation
 // 
 //
 // IDECodeSnippetCompletionPrefix: vokGlobalVariableInterface
