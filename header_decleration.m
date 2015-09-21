@@ -1,4 +1,4 @@
-// Header Decleration
+//  
 // This is the codified way to import files
 //
 // IDECodeSnippetCompletionPrefix: vok_HeaderDecleration
