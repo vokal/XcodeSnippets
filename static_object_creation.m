@@ -1,5 +1,5 @@
 // Static Object Creation
-// 
+// An object that will only be used in the implementation file of a class.
 //
 // IDECodeSnippetCompletionPrefix: eckStaticObjectCreation
 // IDECodeSnippetCompletionScopes: [TopLevel]
