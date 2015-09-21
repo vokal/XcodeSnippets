@@ -1,7 +1,7 @@
 // Global Variable Header
 // 
 //
-// IDECodeSnippetCompletionPrefix: vokGlobalVariableHeader
+// IDECodeSnippetCompletionPrefix: vokGlobalVariableInterface
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: F7B6F271-0D83-40F9-A052-0984C2056658
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
