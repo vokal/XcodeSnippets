@@ -8,6 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 const struct <#XXXStructName#> <#XXXStructName#> = {
-    <#.objectName1#> = <#ObjectValue#>
-    <#.objectName2#> = <#ObjectValue#>
+    <#.objectName1#> = <#ObjectValue#>,
+    <#.objectName2#> = <#ObjectValue#>,
 }
