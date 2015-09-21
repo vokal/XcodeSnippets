@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-<#Object#> *const <#XXXObjectName#> = <#objectValue#>;
+<#Object#> *const <#XXXObjectName = <#objectValue#>;
