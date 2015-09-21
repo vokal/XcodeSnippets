@@ -1,7 +1,7 @@
 // Implementation Struct Types
 // This is the Struct Definition for your implementation file.
 //
-// IDECodeSnippetCompletionPrefix: eckStructImplementation
+// IDECodeSnippetCompletionPrefix: vokStructImplementation
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 5E364B80-4445-4442-8FC2-2EE7E4727B6F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
