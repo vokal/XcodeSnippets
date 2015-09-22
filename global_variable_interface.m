@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: DCB5228E-34F4-4453-BF27-0A022BFF403E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 <#Object#> *const <#XXXObjectName#> = <#objectValue#>;
