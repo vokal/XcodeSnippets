@@ -1,5 +1,5 @@
 // Global Variable Implementation
-// 
+// This will create a global variable that is of an Object Type, such as NSString.
 //
 // IDECodeSnippetCompletionPrefix: vokGlobalVariableImplementation
 // IDECodeSnippetCompletionScopes: [TopLevel]

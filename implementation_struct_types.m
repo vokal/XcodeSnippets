@@ -8,6 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 const struct <#XXXStructName#> <#XXXStructName#> = {
-    <#.variableName1#> = <#Value#>,
-    <#.variableName2#> = <#Value#>,
+    <#.variableName#> = <#Value#>,
 }

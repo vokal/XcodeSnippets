@@ -6,7 +6,7 @@ This is a repository for code snippets that members of the iOS team have found u
 ###Configuration
 Below is our recommended setup:
 
-1. Create your own fork of this repository. Don't create local clone, the plugin will do this automatically. 
+1. Create your own fork of this repository. Don't create a local clone, the plugin will do this automatically. 
 2. Open [Alcatraz](http://alcatraz.io/), or install it if you haven't already, and install the plugin [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin).
 3. Once installed there should be a "Plug-ins" menu bar item, select "configure snippets repository."
 ![ScreenShots](Screenshots/screenshot01.png)
