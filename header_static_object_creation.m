@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-FOUNDATION_EXPORT <#Object#> *const <#XXXObjectName#>;
+FOUNDATION_EXPORT <#Type#> *const <#XXXGlobalVariableName#>;

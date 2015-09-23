@@ -8,6 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 FOUNDATION_EXPORT const struct <#XXXStructName#> {
-    __unsafe_unretained <#Object#> *<#objectName1#>;
-    __unsafe_unretained <#Object#> *<#objectName2#>;
+    __unsafe_unretained <#Type#> *<#variableName1#>;
+    __unsafe_unretained <#Type#> *<#variableName2#>;
 } <#XXXStructName#>;

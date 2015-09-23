@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-static <#Object#> *const <#StaticName#> = <#Object Creation#>
+static <#Type#> *const <#VariableName#> = <#Value#>
