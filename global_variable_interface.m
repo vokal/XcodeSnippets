@@ -1,10 +1,10 @@
-// Global Variable Implementation
-// This will create a global variable that is of an Object Type, such as NSString.
+// Global Variable Interface
+// 
 //
-// IDECodeSnippetCompletionPrefix: vokGlobalVariableImplementation
+// IDECodeSnippetCompletionPrefix: vokGlobalVariableInterface
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: DCB5228E-34F4-4453-BF27-0A022BFF403E
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: F7B6F271-0D83-40F9-A052-0984C2056658
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-<#Type#> *const <#XXXGlobalVariableName#> = <#Value#>;
+FOUNDATION_EXPORT <#Type#> *const <#XXXGlobalVariableName#>;
