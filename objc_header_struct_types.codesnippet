@@ -3,22 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weakSelf</string>
+	<string>structheader</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>typeof(self) __weak weakSelf = self;</string>
+	<string>FOUNDATION_EXPORT const struct &lt;#XXXStructName#&gt; {
+    __unsafe_unretained &lt;#Type#&gt; *&lt;#variableName#&gt;;
+} &lt;#XXXStructName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B6D8B4E9-AA81-466E-83C4-28BBA17E7F93</string>
+	<string>92CFC1EC-C7B9-4960-834F-31C0878FFE84</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Define Weak Self</string>
+	<string>Header Struct Types</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This will create the struct for the Interface File.</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

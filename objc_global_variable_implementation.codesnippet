@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weakSelf</string>
+	<string>globalvariableimplementation</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>typeof(self) __weak weakSelf = self;</string>
+	<string>&lt;#Type#&gt; *const &lt;#GlobalVariableName#&gt; = &lt;#Value#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B6D8B4E9-AA81-466E-83C4-28BBA17E7F93</string>
+	<string>DCB5228E-34F4-4453-BF27-0A022BFF403E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Define Weak Self</string>
+	<string>Global Variable Implementation</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This will create a global variable that is of an Object Type, such as NSString.</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swift-mark</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>TopLevel</string>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#Section#&gt;</string>
+	<string>// MARK: - &lt;#Description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7329708D-DA17-4129-A8F9-A780DFA5FAE1</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Divider label for separating code into sections</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Mark:</string>
+	<string>Swift MARK: -</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

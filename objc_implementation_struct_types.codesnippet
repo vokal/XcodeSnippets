@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>weakSelf</string>
+	<string>structimplementation</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>typeof(self) __weak weakSelf = self;</string>
+	<string>const struct &lt;#XXXStructName#&gt; &lt;#XXXStructName#&gt; = {
+    .&lt;#VariableName#&gt; = &lt;#Value#&gt;,
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B6D8B4E9-AA81-466E-83C4-28BBA17E7F93</string>
+	<string>5E364B80-4445-4442-8FC2-2EE7E4727B6F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This is the Struct Definition for your implementation file.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Define Weak Self</string>
+	<string>Implementation Struct Types</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
