@@ -1,19 +1,43 @@
-iOS_SharedSnippets
-==================
+# XcodeSnippets
 
-This is a repository for code snippets that members of the iOS team have found useful.  
+> Maintained by [@bryanluby](https://github.com/bryanluby)
 
-###Configuration
-Below is our recommended setup:
+A repository of useful Swift and Objective-C Xcode snippets.
 
-1. Create your own fork of this repository. Don't create a local clone, the plugin will do this automatically. 
-2. Open [Alcatraz](http://alcatraz.io/), or install it if you haven't already, and install the plugin [ACCodeSnippetRepositoryPlugin](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin).
-3. Once installed there should be a "Plug-ins" menu bar item, select "configure snippets repository."
-![ScreenShots](Screenshots/screenshot01.png)
-4. Update the "remote repository" field to be your fork of iOS_SharedSnippets.  Then click on "Fork" to clone this repository locally and pull down all of the vokal snippets. (its a [known issue](https://github.com/acoomans/ACCodeSnippetRepositoryPlugin/issues/8) that this should be "clone".)
-![ScreenShots](Screenshots/screenshot02.png)
-5. Click on "Show in Finder". This is the local git repository the plugin created to commit all the changes made to your snippets in Xcode.  It will also push these changes up to the fork that you entered.  If you want to make any changes to your branch do it here – including the cleaning the git history and removing snippets before making a Pull Request.
-6. *Optional* Click on "Import" to commit any custom snippets that you have to your repository. (NOTE: This currently imports all of the system snippets as well so if you don't want those saved in your repository you'll need to remove them manually.) 
+## Installation
 
+- Clone this repo.
+- Run the install script at the top-level of this repo: `./install.sh`
+- This will copy all of the snippets into the user-level Xcode snippets directory.
+- Restart Xcode if it is currently open to use the snippets.
+
+## Adding Snippets
 
 If you have any other Snippets that you would like to share make a Pull Request!
+
+### Steps For Adding Snippets To This Repo
+
+- Follow the directions [here](https://stackoverflow.com/questions/52417561/how-to-add-custom-code-snippets-in-xcode-10) for adding a snippet to Xcode.
+- Then navigate to `~/Library/Developer/Xcode/UserData/CodeSnippets/` and find the `.codesnippet` file that was just created (sorting by Date Modified or Date Created helps).
+- Drag that snippet file into the top-level of this repo folder and rename the file with either the `swift_` or `objc_` naming scheme similar to the other snippets.
+
+## List of Snippets
+
+### Swift
+
+- `swift_mark`: `MARK: -` convenience snippet
+- `swift_private_set_var`: `private(set) var ...` convenience snippet
+- `swift_static_date_formatter`: Static date formatter snippet
+- `swift_tableview_data_source`: Bare bones required `UITableViewDataSource` methods
+- `swift_collectionview_data_source`: Bare bones required `UICollectionViewDataSource` methods
+
+### Objective-C
+
+- `objc_pragma_mark`: `#pragma mark - ...` snippet
+- `objc_weakself`: `weakSelf` snippet
+- `objc_strongSelf`: `strongSelf` snippet
+- `objc_static_object_creation`: `static TYPE *const ...` snippet
+- `objc_global_variable_interface`: `FOUNDATION_EXPORT TYPE *const ...` snippet for `.h` files
+- `objc_global_variable_implementation`: `TYPE *const ...` snippet for `.m` files
+- `objc_struct_types_interface`: Struct type for grouping constants for `.h` files
+- `objc_struct_types_implementation`: Struct type for grouping constants for `.m` files
