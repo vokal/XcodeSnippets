@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>structheader</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>FOUNDATION_EXPORT const struct &lt;#XXXStructName#&gt; {
+    __unsafe_unretained &lt;#Type#&gt; *&lt;#variableName#&gt;;
+} &lt;#XXXStructName#&gt;;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>92CFC1EC-C7B9-4960-834F-31C0878FFE84</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Header Struct Types</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>This will create the struct for the Interface File.</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
