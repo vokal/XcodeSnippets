@@ -30,6 +30,7 @@ If you have any other Snippets that you would like to share make a Pull Request!
 - `swift_static_date_formatter`: Static date formatter snippet
 - `swift_tableview_data_source`: Bare bones required `UITableViewDataSource` methods
 - `swift_collectionview_data_source`: Bare bones required `UICollectionViewDataSource` methods
+- `swift_swiftlint_disable_enable`: Disable/enable a [SwiftLint](https://github.com/realm/SwiftLint) rule.
 
 ### Objective-C
 
