@@ -32,6 +32,7 @@ If you have any other Snippets that you would like to share make a Pull Request!
 - `swift_collectionview_data_source`: Bare bones required `UICollectionViewDataSource` methods
 - `swift_swiftlint_disable_enable`: Disable/enable a [SwiftLint](https://github.com/realm/SwiftLint) rule.
 - `swift_source_code_tag`: Add a tag to link to source code via the `x-source-tag` URL scheme.
+- `swift_source_code_link`: Create a link to source code via the `x-source-tag` URL scheme.
 
 ### Objective-C
 
