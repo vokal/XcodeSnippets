@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>swiftlint_disable_enable</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// swiftlint:disable &lt;#Rule Name#&gt;
+&lt;#Code Block#&gt;
+// swiftlint:enable &lt;#Rule Name#&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>01B63EF7-DCFD-4AA7-9210-5D9CB7CF7B3A</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Disable/Enable a SwiftLint rule (like implicitly_unwrapped_optional)</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftLint Disable/Enable Block</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
