@@ -30,7 +30,10 @@ If you have any other Snippets that you would like to share make a Pull Request!
 - `swift_static_date_formatter`: Static date formatter snippet
 - `swift_tableview_data_source`: Bare bones required `UITableViewDataSource` methods
 - `swift_collectionview_data_source`: Bare bones required `UICollectionViewDataSource` methods
-- `swift_swiftlint_disable_enable`: Disable/enable a [SwiftLint](https://github.com/realm/SwiftLint) rule.
+- `swift_swiftlint_disable_enable`: Disable/enable a [SwiftLint](https://github.com/realm/SwiftLint) rule for a block of code.
+- `swift_swiftlint_disable_this`: Disable a [SwiftLint](https://github.com/realm/SwiftLint) rule for the current line of code.
+- `swift_swiftlint_disable_next`: Disable a [SwiftLint](https://github.com/realm/SwiftLint) rule for the next line of code.
+- `swift_swiftlint_disable_previous`: Disable a [SwiftLint](https://github.com/realm/SwiftLint) rule for the previous line of code.
 - `swift_source_code_tag`: Add a tag to link to source code via the `x-source-tag` URL scheme.
 - `swift_source_code_link`: Create a link to source code via the `x-source-tag` URL scheme.
 
